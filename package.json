@@ -1,0 +1,19 @@
+{
+  "name": "node-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "double": "./double.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@yuichiro-miwa/node-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
